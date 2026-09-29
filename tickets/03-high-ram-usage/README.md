@@ -15,7 +15,11 @@
 
 <img width="1531" height="492" alt="high RAM usage ticket created" src="https://github.com/user-attachments/assets/748cf831-143e-40f1-9648-71b8477eb517" />
 
-**2) Ticket closed with notes**
+**2) Troubleshooting**
+
+<img width="985" height="749" alt="Task manager check" src="https://github.com/user-attachments/assets/543d42c8-5dd8-486c-9882-d149f40dd422" />
+
+**3) Ticket closed with notes**
 
 <img width="1549" height="498" alt="closed RAM ticket" src="https://github.com/user-attachments/assets/084fc89c-2cc8-489e-9c28-157446ee4d83" />
 
