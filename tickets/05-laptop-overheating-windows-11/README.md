@@ -23,7 +23,7 @@
 
 * Ruled out a software cause by checking CPU usage in Task Manager
 * Found dust around the fans underneath the laptop and cleaned it with compressed air
-* Laptop ran cooler after cleaning: [Fan noise change]
+* Laptop ran cooler after cleaning: **Fan noise change**
 * Ticket closed with troubleshooting notes
 
 [Back to all tickets](../../README.md)
