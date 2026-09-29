@@ -13,8 +13,6 @@
 
 <img width="1564" height="397" alt="slow computer ticket created" src="https://github.com/user-attachments/assets/002d3b08-d77a-4a6c-afd2-535b496d85ed" />
 
-
-
 **2) Troubleshooting**
 
 <img width="985" height="749" alt="Task manager check" src="https://github.com/user-attachments/assets/37b20d9b-b14f-4c60-8494-3e5fd258f88f" />
