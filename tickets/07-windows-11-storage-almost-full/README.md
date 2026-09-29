@@ -11,19 +11,25 @@
 
 ## Screenshots
 
-**Ticket created**
+**1) Ticket created**
 
-![Ticket created](screenshots/01-ticket-created.png)
+<img width="1515" height="581" alt="windows storage almost full" src="https://github.com/user-attachments/assets/40fd057a-02c5-4ebe-9779-9a6189b15ad3" />
 
-**Troubleshooting**
 
-![Troubleshooting](screenshots/02-troubleshooting.png)
+**2) Troubleshooting**
 
-**Ticket closed with notes**
+<img width="513" height="741" alt="removed temporary data" src="https://github.com/user-attachments/assets/c133aff0-ced9-4783-88ec-7d309352c52c" />
 
-![Ticket closed](screenshots/03-ticket-closed.png)
+
+**3) Ticket closed with notes**
+
+<img width="1513" height="587" alt="closed ticket storage full" src="https://github.com/user-attachments/assets/a35f613c-bb8a-40ab-bdd3-9799da43ceb4" />
 
 ## Result
-_Add the outcome here (e.g. what changed after the fix)._
+
+* Reviewed storage usage in Windows Settings
+* Cleaned temporary files and removed unnecessary files and apps from the Downloads folder
+* Free space increased by **[2 GB]**
+* Ticket closed with troubleshooting notes
 
 [Back to all tickets](../../README.md)
