@@ -31,7 +31,7 @@
 * Restarted File Explorer from Task Manager
 * Checked for external or thumb drives that could cause the freeze
 * Disabled the preview pane and restarted the computer
-* File Explorer no longer froze during testing: [confirm]
+* File Explorer no longer froze during testing: **Yes**
 * Ticket closed with troubleshooting notes
 
 [Back to all tickets](../../README.md)
