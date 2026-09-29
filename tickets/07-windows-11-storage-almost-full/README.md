@@ -29,7 +29,7 @@
 
 * Reviewed storage usage in Windows Settings
 * Cleaned temporary files and removed unnecessary files and apps from the Downloads folder
-* Free space increased by **[2 GB]**
+* Free space increased by **2GB**
 * Ticket closed with troubleshooting notes
 
 [Back to all tickets](../../README.md)
