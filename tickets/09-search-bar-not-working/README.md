@@ -29,7 +29,7 @@
 
 * Ended the SearchHost.exe process under Search in Task Manager
 * Checked Indexing Options and restarted the computer
-* Search bar worked again: [confirm]
+* Search bar worked again: **Yes**
 * Ticket closed with relevant notes
 
 [Back to all tickets](../../README.md)
