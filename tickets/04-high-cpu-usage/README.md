@@ -10,19 +10,24 @@
 
 ## Screenshots
 
-**Ticket created**
+**1) Ticket created**
 
-![Ticket created](screenshots/01-ticket-created.png)
+<img width="1544" height="493" alt="high CPU usage ticket created" src="https://github.com/user-attachments/assets/c455d505-0da7-46b4-857f-0ab361e7c353" />
 
-**Troubleshooting**
+**2) Troubleshooting**
 
-![Troubleshooting](screenshots/02-troubleshooting.png)
+<img width="985" height="749" alt="Task manager check" src="https://github.com/user-attachments/assets/0f45278f-ed98-424a-962d-14cd5258782e" />
 
-**Ticket closed with notes**
+**3) Ticket closed with notes**
 
-![Ticket closed](screenshots/03-ticket-closed.png)
+<img width="1538" height="478" alt="closed high cpu usage ticket" src="https://github.com/user-attachments/assets/b312780b-e896-495b-a492-e27e5524e03e" />
 
 ## Result
-_Add the outcome here (e.g. what changed after the fix)._
+
+* Checked CPU usage in Task Manager and identified **[Google Chrome]** as the main consumer
+* Checked for pending Windows updates
+* Checked system temperature by touching the computer: [warm]
+* CPU usage dropped from **[60%]** to **[10%]**
+* Ticket closed with troubleshooting notes
 
 [Back to all tickets](../../README.md)
