@@ -15,8 +15,8 @@
 
 <img width="1520" height="589" alt="windows running slow after update" src="https://github.com/user-attachments/assets/721da62d-c3ad-4a7e-98c0-9bf2cad7f7cf" />
 
-<br>
-<br>
+<br/>
+<br/>
 **2) Troubleshooting**
 
 <img width="1068" height="585" alt="checked windows update" src="https://github.com/user-attachments/assets/49349759-9d90-4ebd-90fd-17851531f304" />
