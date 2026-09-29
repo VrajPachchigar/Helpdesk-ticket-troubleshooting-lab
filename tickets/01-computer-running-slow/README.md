@@ -18,6 +18,8 @@
 **2) Troubleshooting**
 
 <img width="985" height="749" alt="Task manager check" src="https://github.com/user-attachments/assets/37b20d9b-b14f-4c60-8494-3e5fd258f88f" />
+<img width="984" height="752" alt="check startup apps" src="https://github.com/user-attachments/assets/b2d1d5b1-2b24-4f4c-a67e-379f7bde2961" />
+
 
 ## Result
 
