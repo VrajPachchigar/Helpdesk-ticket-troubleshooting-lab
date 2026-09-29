@@ -11,19 +11,25 @@
 
 ## Screenshots
 
-**Ticket created**
+**1) Ticket created**
 
-![Ticket created](screenshots/01-ticket-created.png)
+<img width="1503" height="581" alt="windows search bar not working" src="https://github.com/user-attachments/assets/37ed1f46-bb12-4c7f-b784-8bae216b9567" />
 
-**Troubleshooting**
 
-![Troubleshooting](screenshots/02-troubleshooting.png)
+**2) Troubleshooting**
 
-**Ticket closed with notes**
+<img width="978" height="733" alt="killed searchhost exe" src="https://github.com/user-attachments/assets/788a5125-b5b3-4a3f-a47f-640befc74d1d" />
 
-![Ticket closed](screenshots/03-ticket-closed.png)
+
+**3) Ticket closed with notes**
+
+<img width="1537" height="605" alt="closed search bar not working" src="https://github.com/user-attachments/assets/6fd285ad-796a-43de-8399-25752b6a8135" />
 
 ## Result
-_Add the outcome here (e.g. what changed after the fix)._
+
+* Ended the SearchHost.exe process under Search in Task Manager
+* Checked Indexing Options and restarted the computer
+* Search bar worked again: [confirm]
+* Ticket closed with relevant notes
 
 [Back to all tickets](../../README.md)
