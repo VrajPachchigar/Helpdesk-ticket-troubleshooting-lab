@@ -23,7 +23,7 @@
 
 * Identified startup apps consuming resources through Task Manager
 * Disabled unnecessary startup apps, reducing background load at boot
-* Computer performance improved after the change: [describe what you noticed, e.g. faster boot / lower CPU %]
+* Computer performance improved after the change: faster boot that before
 * Ticket closed with troubleshooting notes
 
 [Back to all tickets](../../README.md)
