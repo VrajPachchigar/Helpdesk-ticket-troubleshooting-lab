@@ -27,7 +27,7 @@
 
 * Identified the process driving disk usage from the Processes tab in Task Manager
 * Installed pending Windows updates, ran an antivirus scan, and deleted temporary files
-* Disk usage dropped from **[100%]** to **[20%]**
+* Disk usage dropped from **100%** to **20%**
 * Ticket closed with troubleshooting notes
 
 [Back to all tickets](../../README.md)
