@@ -12,19 +12,26 @@
 
 ## Screenshots
 
-**Ticket created**
+**1) Ticket created**
 
-![Ticket created](screenshots/01-ticket-created.png)
+<img width="1509" height="572" alt="widows black screen after login" src="https://github.com/user-attachments/assets/58cd34a5-124c-446b-85ec-6aab97207aa7" />
 
-**Troubleshooting**
 
-![Troubleshooting](screenshots/02-troubleshooting.png)
+**2) Troubleshooting**
 
-**Ticket closed with notes**
+<img width="976" height="740" alt="checked startup apps" src="https://github.com/user-attachments/assets/a04e277a-3644-41d3-adc0-34af18359fd0" />
 
-![Ticket closed](screenshots/03-ticket-closed.png)
+
+**3) Ticket closed with notes**
+
+<img width="1529" height="590" alt="closed ticket black screen after login" src="https://github.com/user-attachments/assets/adb0ff4c-3c54-4ed3-a0f9-3422bf6cff38" />
 
 ## Result
-_Add the outcome here (e.g. what changed after the fix)._
+
+* Disabled unnecessary startup apps in Task Manager
+* Checked background loading activity and pending Windows updates
+* Restarted the machine
+* Desktop loaded normally after login: **Yes**
+* Ticket closed with relevant notes
 
 [Back to all tickets](../../README.md)
