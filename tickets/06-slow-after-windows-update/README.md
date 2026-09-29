@@ -15,15 +15,11 @@
 
 <img width="1520" height="589" alt="windows running slow after update" src="https://github.com/user-attachments/assets/721da62d-c3ad-4a7e-98c0-9bf2cad7f7cf" />
 
-<br/>
-<br/>
 **2) Troubleshooting**
 
 <img width="1068" height="585" alt="checked windows update" src="https://github.com/user-attachments/assets/49349759-9d90-4ebd-90fd-17851531f304" />
 <img width="985" height="749" alt="Task manager check" src="https://github.com/user-attachments/assets/ee436d8a-e830-444b-94e8-d1cc86fe6e63" />
 
-<br>
-<br>
 
 **3) Ticket closed with notes**
 
