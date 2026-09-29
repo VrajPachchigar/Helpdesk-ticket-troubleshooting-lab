@@ -11,19 +11,28 @@
 
 ## Screenshots
 
-**Ticket created**
+**1) Ticket created**
 
-![Ticket created](screenshots/01-ticket-created.png)
+<img width="1520" height="589" alt="windows running slow after update" src="https://github.com/user-attachments/assets/721da62d-c3ad-4a7e-98c0-9bf2cad7f7cf" />
 
-**Troubleshooting**
 
-![Troubleshooting](screenshots/02-troubleshooting.png)
+**2) Troubleshooting**
 
-**Ticket closed with notes**
+<img width="1068" height="585" alt="checked windows update" src="https://github.com/user-attachments/assets/49349759-9d90-4ebd-90fd-17851531f304" />
+<img width="985" height="749" alt="Task manager check" src="https://github.com/user-attachments/assets/ee436d8a-e830-444b-94e8-d1cc86fe6e63" />
 
-![Ticket closed](screenshots/03-ticket-closed.png)
+
+
+**3) Ticket closed with notes**
+
+<img width="1517" height="585" alt="closed ticket windows running slow" src="https://github.com/user-attachments/assets/6228f406-1cf8-4ca7-b6b9-a8b69bf58c42" />
 
 ## Result
-_Add the outcome here (e.g. what changed after the fix)._
+
+* Confirmed the update status in Windows Settings
+* Restarted the computer to complete the update
+* Checked background processes in Task Manager
+* Performance returned to normal
+* Ticket closed with troubleshooting notes
 
 [Back to all tickets](../../README.md)
