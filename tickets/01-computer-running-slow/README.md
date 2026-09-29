@@ -11,17 +11,17 @@
 
 **Ticket created**
 
-![Ticket created](screenshots/01-ticket-created.png)
+<img width="1564" height="397" alt="slow computer ticket created" src="https://github.com/user-attachments/assets/002d3b08-d77a-4a6c-afd2-535b496d85ed" />
 
 **Troubleshooting**
 
-![Troubleshooting](screenshots/02-troubleshooting.png)
-
-**Ticket closed with notes**
-
-![Ticket closed](screenshots/03-ticket-closed.png)
+<img width="985" height="749" alt="Task manager check" src="https://github.com/user-attachments/assets/37b20d9b-b14f-4c60-8494-3e5fd258f88f" />
 
 ## Result
-_Add the outcome here (e.g. what changed after the fix)._
+
+* Identified startup apps consuming resources through Task Manager
+* Disabled unnecessary startup apps, reducing background load at boot
+* Computer performance improved after the change: [describe what you noticed, e.g. faster boot / lower CPU %]
+* Ticket closed with troubleshooting notes
 
 [Back to all tickets](../../README.md)
