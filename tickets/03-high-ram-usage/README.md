@@ -28,7 +28,7 @@
 * Identified the app using the most RAM in Task Manager: **[Google Chrome]**
 * Confirmed whether installed memory was sufficient for the user's workload: [enough]
 * Restarted the system to clear temporary memory
-* RAM usage dropped from **[80%]** to **[20%]**
+* RAM usage dropped from **80%** to **20%**
 * Ticket closed with relevant notes
 
 [Back to all tickets](../../README.md)
