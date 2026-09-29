@@ -27,7 +27,7 @@
 * Checked CPU usage in Task Manager and identified **[Google Chrome]** as the main consumer
 * Checked for pending Windows updates
 * Checked system temperature by touching the computer: [warm]
-* CPU usage dropped from **[60%]** to **[10%]**
+* CPU usage dropped from **60%** to **10%**
 * Ticket closed with troubleshooting notes
 
 [Back to all tickets](../../README.md)
