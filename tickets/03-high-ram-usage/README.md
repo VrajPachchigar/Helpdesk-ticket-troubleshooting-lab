@@ -11,19 +11,20 @@
 
 ## Screenshots
 
-**Ticket created**
+**1) Ticket created**
 
-![Ticket created](screenshots/01-ticket-created.png)
+<img width="1531" height="492" alt="high RAM usage ticket created" src="https://github.com/user-attachments/assets/748cf831-143e-40f1-9648-71b8477eb517" />
 
-**Troubleshooting**
+**2) Ticket closed with notes**
 
-![Troubleshooting](screenshots/02-troubleshooting.png)
-
-**Ticket closed with notes**
-
-![Ticket closed](screenshots/03-ticket-closed.png)
+<img width="1549" height="498" alt="closed RAM ticket" src="https://github.com/user-attachments/assets/084fc89c-2cc8-489e-9c28-157446ee4d83" />
 
 ## Result
-_Add the outcome here (e.g. what changed after the fix)._
+
+* Identified the app using the most RAM in Task Manager: **[Google Chrome]**
+* Confirmed whether installed memory was sufficient for the user's workload: [enough]
+* Restarted the system to clear temporary memory
+* RAM usage dropped from **[80%]** to **[20%]**
+* Ticket closed with relevant notes
 
 [Back to all tickets](../../README.md)
