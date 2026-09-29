@@ -11,19 +11,19 @@
 
 ## Screenshots
 
-**Ticket created**
+**1) Ticket created**
 
-![Ticket created](screenshots/01-ticket-created.png)
+<img width="1513" height="504" alt="laptop overheating ticket" src="https://github.com/user-attachments/assets/786bcd8b-a7a1-48cc-a38a-ef7bbbf50c88" />
 
-**Troubleshooting**
+**2) Ticket closed with notes**
 
-![Troubleshooting](screenshots/02-troubleshooting.png)
-
-**Ticket closed with notes**
-
-![Ticket closed](screenshots/03-ticket-closed.png)
+<img width="1550" height="593" alt="closed overheating ticket" src="https://github.com/user-attachments/assets/733bd946-d5a7-4220-a256-ea9df8107f25" />
 
 ## Result
-_Add the outcome here (e.g. what changed after the fix)._
+
+* Ruled out a software cause by checking CPU usage in Task Manager
+* Found dust around the fans underneath the laptop and cleaned it with compressed air
+* Laptop ran cooler after cleaning: [Fan noise change]
+* Ticket closed with troubleshooting notes
 
 [Back to all tickets](../../README.md)
