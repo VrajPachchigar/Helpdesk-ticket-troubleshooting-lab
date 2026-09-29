@@ -11,15 +11,15 @@
 
 ## Screenshots
 
-**Ticket created**
+**1) Ticket created**
 
 ![Ticket created](screenshots/01-ticket-created.png)
 
-**Troubleshooting**
+**2) Troubleshooting**
 
 ![Troubleshooting](screenshots/02-troubleshooting.png)
 
-**Ticket closed with notes**
+**3) Ticket closed with notes**
 
 ![Ticket closed](screenshots/03-ticket-closed.png)
 
