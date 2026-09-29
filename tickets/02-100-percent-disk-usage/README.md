@@ -15,7 +15,11 @@
 
 <img width="1487" height="488" alt="100% disk usage ticket created" src="https://github.com/user-attachments/assets/40652f80-2c18-4a72-95b0-b13984109875" />
 
-**2) Ticket closed with notes**
+**2) Troubleshooting**
+
+<img width="985" height="749" alt="Task manager check" src="https://github.com/user-attachments/assets/571f055a-201d-419a-a4ec-94a3d7d1a881" />
+
+**3) Ticket closed with notes**
 
 <img width="1533" height="481" alt="closed 100% disk usage ticket" src="https://github.com/user-attachments/assets/7531ad6d-1c3f-4bd6-9fc0-c46883fce7cd" />
 
