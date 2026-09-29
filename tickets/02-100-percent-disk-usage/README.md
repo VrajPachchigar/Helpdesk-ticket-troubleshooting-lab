@@ -13,17 +13,17 @@
 
 **1) Ticket created**
 
-![Ticket created](screenshots/01-ticket-created.png)
+<img width="1487" height="488" alt="100% disk usage ticket created" src="https://github.com/user-attachments/assets/40652f80-2c18-4a72-95b0-b13984109875" />
 
-**2) Troubleshooting**
+**2) Ticket closed with notes**
 
-![Troubleshooting](screenshots/02-troubleshooting.png)
-
-**3) Ticket closed with notes**
-
-![Ticket closed](screenshots/03-ticket-closed.png)
+<img width="1533" height="481" alt="closed 100% disk usage ticket" src="https://github.com/user-attachments/assets/7531ad6d-1c3f-4bd6-9fc0-c46883fce7cd" />
 
 ## Result
-_Add the outcome here (e.g. what changed after the fix)._
+
+* Identified the process driving disk usage from the Processes tab in Task Manager
+* Installed pending Windows updates, ran an antivirus scan, and deleted temporary files
+* Disk usage dropped from **[100%]** to **[20%]**
+* Ticket closed with troubleshooting notes
 
 [Back to all tickets](../../README.md)
